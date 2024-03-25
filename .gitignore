@@ -1,0 +1,7 @@
+__pycache__
+__pycache__/*
+*/*/__pycache__/*.pyc
+*.pyc
+FusionDynMM/src/__pycache__
+FusionDynMM/src/__pycache__/*
+FusionDynMM/results/*
